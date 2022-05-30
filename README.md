@@ -7,7 +7,7 @@ make
 
 Para ejecutar este programa corra la siguiente instrucción:
 
-./bin/Tarea-I
+./bin/Tarea-II
 
 Para los tests
 Para compilar los tests de este programa ejecute la siguiente instrucción:
